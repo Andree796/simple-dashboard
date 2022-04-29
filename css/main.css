@@ -405,7 +405,7 @@ body{
     border-radius: 7px;
     height: 3em;
     display: flex;
-    background-image: url(images/icon-work.svg);
+    background-image: url(/images/icon-work.svg);
     background-repeat: no-repeat;
     background-size: 5em;
     background-position: right;
