@@ -64,7 +64,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 40px;
-  background-image: url(images/icon-work.svg);
+  background-image: url(/images/icon-work.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -115,7 +115,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 70px;
-  background-image: url(images/icon-play.svg);
+  background-image: url(/images/icon-play.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -141,7 +141,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 74px;
-  background-image: url(images/icon-study.svg);
+  background-image: url(/images/icon-study.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -167,7 +167,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 74px;
-  background-image: url(images/icon-exercise.svg);
+  background-image: url(/images/icon-exercise.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -193,7 +193,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 74px;
-  background-image: url(images/icon-social.svg);
+  background-image: url(/images/icon-social.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -219,7 +219,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 74px;
-  background-image: url(images/icon-self-care.svg);
+  background-image: url(/images/icon-self-care.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -243,7 +243,7 @@ body{
   color: hsl(236, 100%, 87%);
 }
 
-.box__horas-templete-desktop, .box__horas-desktop, .box__study-templete-desktop, .box__play-templete-desktop, .box__play-desktop, .box__study-templete-desktop, .box__study-desktop, .box__exersice-templete-desktop, .box__exersice-desktop, .box__social-templete-desktop, .box__social-desktop, .box__self_care-templete-desktop{
+.box__horas-templete-desktop, .box__horas-desktop, .box__study-templete-desktop, .box__play-templete-desktop, .box__play-desktop, .box__study-templete-desktop, .box__study-desktop, .box__exersice-templete-desktop, .box__exersice-desktop, .box__social-templete-desktop, .box__social-desktop, .box__self_care-templete-desktop, .box__self_care-desktop{
   display: none;
 }
 
@@ -255,7 +255,7 @@ body{
 /* DESKTOP */
 @media screen and (min-width: 1366px){
   
-  .box__horas-templete, .box__horas, .box__play-templete, .box__play, .box__study-templete, .box__study, .box__exercise-templete, .box__exercise, .box__social-templete, .box__social, .box__self-care-templete, .box__social, .box__self_care-desktop{
+  .box__horas-templete, .box__horas, .box__play-templete, .box__play, .box__study-templete, .box__study, .box__exercise-templete, .box__exercise, .box__social-templete, .box__social, .box__self-care-templete, .box__social, .box__self-care{
     display: none;
   }
   
@@ -281,7 +281,7 @@ body{
     border-radius: 7px;
     height: 3em;
     display: flex;
-    background-image: url(images/icon-self-care.svg);
+    background-image: url(/images/icon-self-care.svg);
     background-repeat: no-repeat;
     background-size: 5em;
     background-position: right;
@@ -299,7 +299,7 @@ body{
     border-radius: 7px;
     display: flex;
     height: 3em;
-    background-image: url(images/icon-social.svg);
+    background-image: url(/images/icon-social.svg);
     background-repeat: no-repeat;
     background-size: 5em;
     background-position: right;
@@ -337,7 +337,7 @@ body{
     border-radius: 7px;
     height: 3em;
     display: flex;
-    background-image: url(images/icon-exercise.svg);
+    background-image: url(/images/icon-exercise.svg);
     background-repeat: no-repeat;
     background-size: 5em;
     background-position: right;
@@ -363,7 +363,7 @@ body{
     background-color: hsl(348, 100%, 68%);
     border-radius: 7px;
     height: 3em;
-    background-image: url(images/icon-study.svg);
+    background-image: url(/images/icon-study.svg);
     background-repeat: no-repeat;
     background-size: 5em;
     background-position: right;
@@ -388,7 +388,7 @@ body{
     background-color: hsl(195, 74%, 62%);
     border-radius: 7px;
     height: 3em;
-    background-image: url(images/icon-play.svg);
+    background-image: url(/images/icon-play.svg);
     background-repeat: no-repeat;
     background-size: 5em;
     background-position: right;;
