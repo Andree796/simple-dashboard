@@ -64,7 +64,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 40px;
-  background-image: url(/images/icon-work.svg);
+  background-image: url(../images/icon-work.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -115,7 +115,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 70px;
-  background-image: url(/images/icon-play.svg);
+  background-image: url(../images/icon-play.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -141,7 +141,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 74px;
-  background-image: url(/images/icon-study.svg);
+  background-image: url(../images/icon-study.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -167,7 +167,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 74px;
-  background-image: url(/images/icon-exercise.svg);
+  background-image: url(../images/icon-exercise.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -193,7 +193,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 74px;
-  background-image: url(/images/icon-social.svg);
+  background-image: url(../images/icon-social.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
@@ -219,7 +219,7 @@ body{
   height: 3em;
   display: flex;
   margin-top: 74px;
-  background-image: url(/images/icon-self-care.svg);
+  background-image: url(../images/icon-self-care.svg);
   background-repeat: no-repeat;
   background-size: 5em;
   background-position: right;
